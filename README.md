@@ -10,5 +10,7 @@ Link:https://github.com/meghamsh253/Indian-Census-Data-Analysis/blob/main/Datase
 Dataset 2:Population of various districts in India.
 Link:https://github.com/meghamsh253/Indian-Census-Data-Analysis/blob/main/Dataset2.xlsx
 
-Source:https://censusindia.gov.in/census.website/
+Source:https://censusindia.gov.in/census.website
+
+LinkedIn article:https://www.linkedin.com/posts/meghamsh-sriram_github-meghamsh253indian-census-data-analysis-activity-7131980824672964609-UPKd?utm_source=share&utm_medium=member_desktop
 
